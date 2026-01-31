@@ -19,4 +19,11 @@
 - Composer
 - PSR-4, PSR-12
 
+## Локальная установка
+composer require honor/progression:1.0.0
+
+## Глобальная установка
+composer global require honor/progression -W
+
 ## Packagist
+https://packagist.org/packages/honor/progression
